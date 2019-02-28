@@ -8,4 +8,7 @@ public class FirstController {
     public void fun2() {
         System.out.println("zhang");
     }
+    public void fun3() {
+        System.out.println("zhang");
+    }
 }
